@@ -1,0 +1,39 @@
+{
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "timestamp": "2025-03-12T15:26:16.164-03:00",
+      "content": "Joined the server.",
+      "author": {
+        "id": "1349435705239277588",
+        "name": "Recolhedor de votos",
+        "roles": []
+      }
+    },
+    {
+      "timestamp": "2025-03-12T15:34:05.719-03:00",
+      "content": "Ele chegou",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      },
+      "reference": {
+        "messageId": "1349448425439232000",
+        "channelId": "1349431849541439550",
+        "guildId": "1349431849092513813"
+      }
+    }
+  ],
+  "messageCount": 2
+}

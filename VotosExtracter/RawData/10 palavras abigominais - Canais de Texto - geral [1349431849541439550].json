@@ -1,0 +1,102 @@
+{
+  "guild": {
+    "id": "1349431849092513813",
+    "name": "10 palavras abigominais",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1349431849541439550",
+    "type": "GuildTextChat",
+    "categoryId": "1349431849541439548",
+    "category": "Canais de Texto",
+    "name": "geral",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-12T17:40:52.1060246-03:00",
+  "messages": [
+    {
+      "id": "1349448425439232000",
+      "type": "GuildMemberJoin",
+      "timestamp": "2025-03-12T15:26:16.164-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1349435705239277588",
+        "name": "Recolhedor de votos",
+        "discriminator": "4295",
+        "nickname": "Recolhedor de votos",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1349435705239277588/e74d78972ac287a7bab9da8641ae47c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1349450394895384588",
+      "type": "Reply",
+      "timestamp": "2025-03-12T15:34:05.719-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ele chegou",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "discriminator": "0000",
+        "nickname": "Reiqueijão (:",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1349434247399866461",
+            "name": "Mestre",
+            "color": "#E91E63",
+            "position": 2
+          },
+          {
+            "id": "1349434710182461521",
+            "name": "Participante",
+            "color": "#2ECC71",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1195465804196626534/756969fa68378ff5774f2ec5fe3aecee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1349435705239277588",
+          "name": "Recolhedor de votos",
+          "discriminator": "4295",
+          "nickname": "Recolhedor de votos",
+          "color": null,
+          "isBot": true,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1349435705239277588/e74d78972ac287a7bab9da8641ae47c4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1349448425439232000",
+        "channelId": "1349431849541439550",
+        "guildId": "1349431849092513813"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}
